@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #cab88c;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+main {
+    background-color: white;
+    margin: 10px auto 20px auto;
+    width: 600px;
+    height: 400px;
+    padding: 8px 0px 8px 0px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.493);
+}
+
+main h3 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    width: 55%;
+    margin: -5px auto 0 auto;
+}
+
+img ::after {
+    margin: -50px auto;
+}
+
+footer {
+    text-align: center;
+}
+
+footer em {
+    color: white;
+    margin-top: 10px;
+}

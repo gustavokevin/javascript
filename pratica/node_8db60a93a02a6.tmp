@@ -1,0 +1,7 @@
+var inicio = 1
+var fim = 10
+var passos = 1
+
+for(inicio = 1; inicio <= 10; passos++){
+    console.log(`${inicio}`)
+}
