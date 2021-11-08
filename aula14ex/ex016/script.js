@@ -15,6 +15,6 @@ function contar(){
         for (let c = 1; c <= f; c += p){
             res.innerHTML += `${c} \u{1F449} `
         }
-        res.innerHTML += `\u{1F3C1}`
+        res.innerHTML += `\u{1F3C1}` 
     }
 }
